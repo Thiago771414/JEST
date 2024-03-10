@@ -1,6 +1,6 @@
 # Automação de Testes com JEST e MongoDB
 Este projeto demonstra uma aplicação de testes automatizados utilizando JEST para uma API de usuários que interage com o banco de dados MongoDB. Os testes cobrem funcionalidades básicas como encontrar todos os usuários e encontrar um usuário específico por ID, utilizando a biblioteca superagent para as requisições HTTP.
-## Layout Login
+## JEST
 ![Mobile 1](https://miro.medium.com/v2/resize:fit:700/1*M0tzk-tfDQP3mrVGcoT5-A.png)
 
 # Dependências
