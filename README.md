@@ -12,8 +12,6 @@ Jest
 Superagent
 Você pode instalar o Jest e o Superagent via npm com os seguintes comandos:
 ````javascript
-bash
-Copy code
 npm install --save-dev jest
 npm install superagent
 ````
@@ -28,8 +26,6 @@ Os testes estão definidos no arquivo user-api.test.js, que utiliza o Jest para 
 # Como Executar os Testes
 Para executar os testes, navegue até o diretório raiz do projeto pelo terminal e execute o seguinte comando:
 ````javascript
-bash
-Copy code
 npm test
 ````
 Este comando irá iniciar o Jest, que por sua vez executará todos os testes definidos no arquivo user-api.test.js. Os testes vão verificar se a aplicação consegue retornar todos os usuários e encontrar um usuário específico pelo ID, além de tratar corretamente os casos em que um usuário não é encontrado.
